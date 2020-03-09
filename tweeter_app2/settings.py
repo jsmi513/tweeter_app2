@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'rest_framework.authtoken', # new
+    'rest_auth', # new
     'bootstrap4',
     'bootstrap_datepicker_plus',
 
